@@ -1,0 +1,120 @@
+## intent:help
+- Bantu saya menemukan sesuatu yang lain
+- tolong aku
+- membimbing saya
+- bantu saya memilih
+- bantu saya memilih
+- apa lagi yang kamu punya?
+- ingin sesuatu yang lain
+- Saya ingin sesuatu yang lain
+- Apa yang kamu punya?
+
+## intent:yes_simple
+- Tentu
+- Ya
+- Oke
+- Itu sebabnya aku di sini
+- ya tentu
+- sangat
+- untuk ya
+- tentu saja
+- oke, tentu
+- Tentu saja
+- Ya, saya ingin memesan
+- Ya, saya bersedia
+- Saya pikir ya
+
+## intent:yes_menu
+- Menu terdengar hebat
+- Saya suka menunya
+- Aku pesan menunya
+- Saya ingin menunya
+- Kedengarannya bagus
+- Saya suka yang spesial
+- Aku pesan spesial
+- Saya ingin yang spesial
+- Beri aku spesial hari ini
+- Aku akan mengambil yang spesial
+
+## intent:yes_x_y
+- Ya, saya ingin [pizza](order_item)
+- Ya, saya ingin [sup](item_pesanan) dan [pizza](item_pesanan)
+- Apakah Anda memiliki [pizza](order_item)?
+- Saya ingin sesuatu [Italia](order_item)
+- [pizza](item_pesanan) dan [sesuatu yang manis](item_pesanan)
+- Saya ingin [pizza](item_pesanan) dan beberapa [sup](item_pesanan)
+- Apa yang kamu punya [manis](pesanan_item)?
+- Saya ingin [makanan](barang_pesanan) dan [sup](barang_pesanan)
+- Jenis [pizza](order_item) apa yang kamu punya?
+- Beri aku sesuatu [jepang](order_item)
+- Ya, saya sedang mencari sesuatu dari [Prancis](order_item)
+- Apakah Anda memiliki [Meksiko](order_item)?
+- Tentu, apa yang kamu punya [vegan](item_pesanan)?
+- Saya butuh sesuatu [tanpa gluten](order_item)
+- Sesuatu [bebas gluten](order_item)?
+- Apakah Anda memiliki [bebas susu](item_pesanan) [makanan](item_pesanan)?
+- Saya seorang [vegetarian](order_item)
+- Ya, saya ingin sesuatu [tanpa telur](order_item)
+- Apakah Anda punya [sup mie ramen Jepang](item_pesanan)?
+- Saya ingin [beras Jepang/gohan](item_pesanan)
+- Saya ingin [Sup Miso](order_item)
+- Saya mau beberapa [Smoked salmon & alpukat sushi](order_item)
+- Saya ingin [sup mie ramen Jepang](order_item)
+- Saya ingin [beras Jepang/gohan](item_pesanan)
+- Apakah Anda memiliki [Miso Soup](order_item)?
+- Apakah Anda memiliki [Smoked Salmon & Alpukat Sushi](Order_item)?
+- Saya ingin beberapa [Beetroot & alpukat nori gulung dengan saus celup wasabi](order_item)
+- Saya ingin beberapa [Gyoza](order_item)
+- Saya ingin [Yaki udon](order_item)
+- Apakah Anda memiliki [Onigiri - Bola Nasi Jepang](item_pesanan)?
+- Saya ingin [Mochi](order_item)
+- Saya mencari [ramen Vegan](item_pesanan)
+- Saya ingin beberapa [Yakisoba - Mie Goreng Jepang](order_item)
+- Saya mencari [Quiche Lorraine](order_item)
+- Saya mencari [White chocolate crème brûlée](order_item)
+- Apakah Anda memiliki [souffle karamel dengan saus karamel](item_pesanan)?
+- Saya mencari [Macarons](order_item)
+- Apakah Anda memiliki [Ratatouille](order_item)?
+- Ya, saya ingin [Salade niçoise](order_item)
+- Apakah Anda punya [Cassoulet babi](item_pesanan)?
+- Saya mencari [Coq au vin](order_item)
+- Ya, saya ingin [Tarte Tatin](order_item)
+- Apakah Anda memiliki [Pizza Margherita](order_item)?
+- Saya ingin [Vegan pizza Margherita](order_item)
+- Saya ingin [Pizza bebas gluten](order_item)
+- Apakah Anda memiliki [Cheese & bacon pizza](order_item)?
+- Apakah Anda memiliki [Pizza tuna](pesanan_item)?
+- Saya ingin [Tortellini dengan pesto & brokoli](order_item)
+- Apakah Anda memiliki [Strawberry panna cotta](order_item)?
+- Saya mencari [Carbonara with chicken](order_item)
+- Saya ingin beberapa [spaghetti bakso ayam](order_item)
+- Ya, saya ingin [Calzone](order_item)
+- Apakah Anda memiliki [Spaghetti bolognese](order_item)?
+- Saya ingin [Risotto cukini musim panas](item_pesanan)
+- Ya, saya ingin [Lasagna](order_item)
+- Apakah Anda memiliki [Tiramisu](order_item)?
+- Apakah Anda memiliki [Ultimate guacamole](order_item)?
+- Saya mencari [nacho jagung manis & tomat](item_pesanan)
+- Saya ingin [Chicken quesadillas](order_item)
+- Saya ingin [Ubi jalar, selai kacang & chilli quesadillas](order_item)
+- Ya, saya mau [Chicken enchiladas](order_item)
+- Saya ingin beberapa [Chicken burrito](order_item)
+- Apakah Anda punya [burrito Vegan](item_pesanan)?
+- Saya mencari [Taco ikan](item_pesanan)
+- Ya, saya mau [Taco kacang hitam pedas](item_pesanan)
+- Saya ingin beberapa [Chilli Con Carne](order_item)
+- Saya ingin beberapa [Posole](order_item)
+
+## intent:decline
+- tidak
+- mustahil
+- tidak terlalu
+- tidak tidak
+- Saya pikir tidak
+- Saya kira tidak demikian
+- tidak terima kasih
+- tidak terima kasih
+- tidak, terima kasih
+- tidak, terima kasih
+- tidak ingin apa-apa
+- Tidak ada apa-apa
