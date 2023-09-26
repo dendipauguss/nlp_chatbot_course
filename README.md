@@ -1,1 +1,1 @@
-# nlp_chatbot_course_hendar
+# nlp_chatbot_course
